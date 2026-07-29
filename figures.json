@@ -1,0 +1,351 @@
+{
+  "meta": {
+    "description": "Curated list of Cuban salsa (Casino) figures for a daily 'figure of the day' email project.",
+    "source": "rueda.casino (SalsaNor non-profit) - https://rueda.casino/casino/all-casino-figures/",
+    "notes": "Each entry links to the figure's official YouTube demo video. 'page_url' is the rueda.casino reference page with more detail. Figures marked position='open' or 'closed' refer to the partner hold used - useful context even for solo practice (shadow the hold). Difficulty follows rueda.casino's own leveling: beginner < improver < intermediate < advanced. A few figures on the source site have no public video and are excluded here.",
+    "last_updated": "2026-07-29",
+    "total_figures": 32
+  },
+  "figures": [
+    {
+      "id": 1,
+      "name": "Enchufla",
+      "spanish_name": "Enchufla",
+      "difficulty": "beginner",
+      "position": "closed",
+      "video_url": "https://www.youtube.com/watch?v=fzBhfk3hq6M",
+      "page_url": "https://rueda.casino/figure/casino/enchufla-3/",
+      "notes": "The most fundamental casino turn - almost every other figure builds on this."
+    },
+    {
+      "id": 2,
+      "name": "Dile que no",
+      "spanish_name": "Dile que no",
+      "difficulty": "beginner",
+      "position": "closed",
+      "video_url": "https://www.youtube.com/watch?v=iKfS6vNJBLg",
+      "page_url": "https://rueda.casino/figure/casino/dile-que-no-3/",
+      "notes": "Classic beginner figure, often taught right after Enchufla."
+    },
+    {
+      "id": 3,
+      "name": "Dile que si",
+      "spanish_name": "Dile que si",
+      "difficulty": "beginner",
+      "position": "open",
+      "video_url": "https://www.youtube.com/watch?v=TaL3v8RWCsE",
+      "page_url": "https://rueda.casino/figure/casino/dile-que-si-4/",
+      "notes": "Open-position companion to Dile que no."
+    },
+    {
+      "id": 4,
+      "name": "El dedo",
+      "spanish_name": "El dedo",
+      "difficulty": "improver",
+      "position": "closed",
+      "video_url": "https://www.youtube.com/watch?v=-i5tF1zgJak",
+      "page_url": "https://rueda.casino/figure/casino/el-dedo/",
+      "notes": ""
+    },
+    {
+      "id": 5,
+      "name": "Aguajea",
+      "spanish_name": "Aguajea (paseala adentro y afuera)",
+      "difficulty": "improver",
+      "position": "closed",
+      "video_url": "https://www.youtube.com/watch?v=j3fo8gsFpqY",
+      "page_url": "https://rueda.casino/figure/casino/aguajea/",
+      "notes": ""
+    },
+    {
+      "id": 6,
+      "name": "Cubanita",
+      "spanish_name": "Cubanita",
+      "difficulty": "improver",
+      "position": "open",
+      "video_url": "https://www.youtube.com/watch?v=vxrKF41mlaU",
+      "page_url": "https://rueda.casino/figure/casino/cubanita/",
+      "notes": "Pairs naturally with Cubanito."
+    },
+    {
+      "id": 7,
+      "name": "Cubanito",
+      "spanish_name": "Cubanito",
+      "difficulty": "improver",
+      "position": "open",
+      "video_url": "https://www.youtube.com/watch?v=sg7lkWclFRE",
+      "page_url": "https://rueda.casino/figure/casino/cubanito-2/",
+      "notes": "Pairs naturally with Cubanita."
+    },
+    {
+      "id": 8,
+      "name": "Exhibela",
+      "spanish_name": "Exhibela",
+      "difficulty": "improver",
+      "position": "open",
+      "video_url": "https://www.youtube.com/watch?v=zGqU2xfdS1w",
+      "page_url": "https://rueda.casino/figure/casino/exhibela-2/",
+      "notes": ""
+    },
+    {
+      "id": 9,
+      "name": "Montana",
+      "spanish_name": "Monta\u00f1a",
+      "difficulty": "improver",
+      "position": "open",
+      "video_url": "https://www.youtube.com/watch?v=AYHiFki5_5s",
+      "page_url": "https://rueda.casino/figure/casino/montana/",
+      "notes": ""
+    },
+    {
+      "id": 10,
+      "name": "Ochenta y cuatro (84)",
+      "spanish_name": "Ochenta y cuatro",
+      "difficulty": "improver",
+      "position": "open",
+      "video_url": "https://www.youtube.com/watch?v=652-BfCWOsA",
+      "page_url": "https://rueda.casino/figure/casino/ochenta-y-cuatro/",
+      "notes": "Part of the numbered 'setenta/ochenta' figure family."
+    },
+    {
+      "id": 11,
+      "name": "Preciosa",
+      "spanish_name": "Preciosa",
+      "difficulty": "improver",
+      "position": "open",
+      "video_url": "https://youtu.be/QLt7VrcEuqA",
+      "page_url": "https://rueda.casino/figure/casino/preciosa/",
+      "notes": ""
+    },
+    {
+      "id": 12,
+      "name": "Setenta (70)",
+      "spanish_name": "Setenta",
+      "difficulty": "improver",
+      "position": "open",
+      "video_url": "https://youtu.be/2idTkb7nCkA",
+      "page_url": "https://rueda.casino/figure/casino/setenta/",
+      "notes": "First of the numbered 'setenta' figure family - learn this before 71/72/complicado variants."
+    },
+    {
+      "id": 13,
+      "name": "Setenta y uno (71)",
+      "spanish_name": "Setenta y uno",
+      "difficulty": "improver",
+      "position": "open",
+      "video_url": "https://www.youtube.com/watch?v=Au4QgkE5tTE",
+      "page_url": "https://rueda.casino/figure/casino/setenta-y-uno/",
+      "notes": "Follows Setenta (70)."
+    },
+    {
+      "id": 14,
+      "name": "Sombrero",
+      "spanish_name": "Sombrero",
+      "difficulty": "improver",
+      "position": "open",
+      "video_url": "https://www.youtube.com/watch?v=Toehw_ZrEuQ",
+      "page_url": "https://rueda.casino/figure/casino/sombrero-2/",
+      "notes": "Has an intermediate follow-up figure, 'Sombrero nuevo'."
+    },
+    {
+      "id": 15,
+      "name": "Vacilala",
+      "spanish_name": "Vacilala",
+      "difficulty": "improver",
+      "position": "open",
+      "video_url": "https://www.youtube.com/watch?v=Ci_otsJ1jzE",
+      "page_url": "https://rueda.casino/figure/casino/vacilala-2/",
+      "notes": "Root figure for several advanced 'Vacilala con...' variations."
+    },
+    {
+      "id": 16,
+      "name": "Adios",
+      "spanish_name": "Adios",
+      "difficulty": "intermediate",
+      "position": "open",
+      "video_url": "https://www.youtube.com/watch?v=BbBTE0_HoL8",
+      "page_url": "https://rueda.casino/figure/casino/adios-2/",
+      "notes": ""
+    },
+    {
+      "id": 17,
+      "name": "Balsero",
+      "spanish_name": "Balsero",
+      "difficulty": "intermediate",
+      "position": "open",
+      "video_url": "https://youtu.be/OSA_k8AGJf8",
+      "page_url": "https://rueda.casino/figure/casino/balsero/",
+      "notes": ""
+    },
+    {
+      "id": 18,
+      "name": "Coca-cola",
+      "spanish_name": "Coca-cola",
+      "difficulty": "intermediate",
+      "position": "open",
+      "video_url": "https://www.youtube.com/watch?v=__S_LgIpAns",
+      "page_url": "https://rueda.casino/figure/casino/coca-cola-2/",
+      "notes": ""
+    },
+    {
+      "id": 19,
+      "name": "Juana la cubana",
+      "spanish_name": "Juana la cubana",
+      "difficulty": "intermediate",
+      "position": "open",
+      "video_url": "https://www.youtube.com/watch?v=0OgBnnrDPow",
+      "page_url": "https://rueda.casino/figure/casino/juana-la-cubana/",
+      "notes": ""
+    },
+    {
+      "id": 20,
+      "name": "Kentucky",
+      "spanish_name": "Kentucky",
+      "difficulty": "intermediate",
+      "position": "open",
+      "video_url": "https://youtu.be/-EvOJNVecu0",
+      "page_url": "https://rueda.casino/figure/casino/kentucky/",
+      "notes": ""
+    },
+    {
+      "id": 21,
+      "name": "Lazo",
+      "spanish_name": "Lazo",
+      "difficulty": "intermediate",
+      "position": "open",
+      "video_url": "https://www.youtube.com/watch?v=Z-1AfMndPpQ",
+      "page_url": "https://rueda.casino/figure/casino/lazo-2/",
+      "notes": ""
+    },
+    {
+      "id": 22,
+      "name": "Ochenta",
+      "spanish_name": "Ochenta",
+      "difficulty": "intermediate",
+      "position": "open",
+      "video_url": "https://youtu.be/9QP44gaQEKE",
+      "page_url": "https://rueda.casino/figure/casino/ochenta/",
+      "notes": "Not to be confused with 'Ochenta y cuatro' (improver level)."
+    },
+    {
+      "id": 23,
+      "name": "Paseala",
+      "spanish_name": "Paseala",
+      "difficulty": "intermediate",
+      "position": "open",
+      "video_url": "https://www.youtube.com/watch?v=_qAIDpG0M14",
+      "page_url": "https://rueda.casino/figure/casino/paseala-2/",
+      "notes": "Has a follow-up variant, 'Paseala por arriba'."
+    },
+    {
+      "id": 24,
+      "name": "Paseala por arriba",
+      "spanish_name": "Paseala por arriba",
+      "difficulty": "intermediate",
+      "position": "open",
+      "video_url": "https://www.youtube.com/watch?v=37H4hDXuRUQ",
+      "page_url": "https://rueda.casino/figure/casino/paseala-por-arriba-2/",
+      "notes": "Variant of Paseala - practice that one first."
+    },
+    {
+      "id": 25,
+      "name": "Paseo",
+      "spanish_name": "Paseo",
+      "difficulty": "intermediate",
+      "position": "open",
+      "video_url": "https://www.youtube.com/watch?v=J34CMKhlDys",
+      "page_url": "https://rueda.casino/figure/casino/paseo-2/",
+      "notes": ""
+    },
+    {
+      "id": 26,
+      "name": "Sombrero nuevo",
+      "spanish_name": "Sombrero nuevo",
+      "difficulty": "intermediate",
+      "position": "open",
+      "video_url": "https://www.youtube.com/watch?v=hl12u7dti2A",
+      "page_url": "https://rueda.casino/figure/casino/sombrero-nuevo/",
+      "notes": "Builds on the improver-level 'Sombrero' - learn that first."
+    },
+    {
+      "id": 27,
+      "name": "Bayamo",
+      "spanish_name": "Bayamo",
+      "difficulty": "advanced",
+      "position": "open",
+      "video_url": "https://www.youtube.com/watch?v=2C69IEk66wg",
+      "page_url": "https://rueda.casino/figure/casino/bayamo/",
+      "notes": ""
+    },
+    {
+      "id": 28,
+      "name": "Esquina de tejas",
+      "spanish_name": "Esquina de tejas",
+      "difficulty": "advanced",
+      "position": "open",
+      "video_url": "https://youtu.be/B1OEmXagUpU",
+      "page_url": "https://rueda.casino/figure/casino/esquina-de-tejas/",
+      "notes": ""
+    },
+    {
+      "id": 29,
+      "name": "Puente doble",
+      "spanish_name": "Puente doble",
+      "difficulty": "advanced",
+      "position": "open",
+      "video_url": "https://youtu.be/O2-sD4FU8C0",
+      "page_url": "https://rueda.casino/figure/casino/puente-doble/",
+      "notes": ""
+    },
+    {
+      "id": 30,
+      "name": "Reina",
+      "spanish_name": "Reina",
+      "difficulty": "advanced",
+      "position": "open",
+      "video_url": "https://www.youtube.com/watch?v=WDPW6qjdQpk",
+      "page_url": "https://rueda.casino/figure/casino/reina-2/",
+      "notes": ""
+    },
+    {
+      "id": 31,
+      "name": "Setenta complicado",
+      "spanish_name": "Setenta complicado",
+      "difficulty": "advanced",
+      "position": "open",
+      "video_url": "https://www.youtube.com/watch?v=skUI35l3B2g",
+      "page_url": "https://rueda.casino/figure/casino/setenta-complicado/",
+      "notes": "Advanced extension of the Setenta family (70/71/72) - learn those first."
+    },
+    {
+      "id": 32,
+      "name": "Setenta y dos (72)",
+      "spanish_name": "Setenta y dos",
+      "difficulty": "advanced",
+      "position": "open",
+      "video_url": "https://www.youtube.com/watch?v=lW-uaNJwVEk",
+      "page_url": "https://rueda.casino/figure/casino/setenta-y-dos/",
+      "notes": "Continues the Setenta family."
+    },
+    {
+      "id": 33,
+      "name": "Vacilala con columbia",
+      "spanish_name": "Vacilala con columbia",
+      "difficulty": "advanced",
+      "position": "open",
+      "video_url": "https://www.youtube.com/watch?v=PeN5j0p1HS4",
+      "page_url": "https://rueda.casino/figure/casino/vacilala-con-columbia-2/",
+      "notes": "Builds on improver-level 'Vacilala'."
+    },
+    {
+      "id": 34,
+      "name": "Vacilala y florea",
+      "spanish_name": "Vacilala y florea",
+      "difficulty": "advanced",
+      "position": "open",
+      "video_url": "https://www.youtube.com/watch?v=pwdvyM7AtOQ",
+      "page_url": "https://rueda.casino/figure/casino/vacilala-y-florea-2/",
+      "notes": "Builds on improver-level 'Vacilala'."
+    }
+  ]
+}

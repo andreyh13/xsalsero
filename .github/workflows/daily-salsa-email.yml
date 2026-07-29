@@ -1,0 +1,48 @@
+name: Send daily salsa figure
+
+on:
+  schedule:
+    # Runs at 07:00 UTC every day. Adjust the hour to fit your timezone -
+    # cron is always in UTC regardless of where the runner executes.
+    - cron: "0 7 * * *"
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab, useful for testing
+
+# The GITHUB_TOKEN needs write access to push the updated state.json back to the repo.
+permissions:
+  contents: write
+
+jobs:
+  send-email:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Send today's figure
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          TO_EMAIL: ${{ secrets.TO_EMAIL }}
+          FROM_EMAIL: ${{ secrets.FROM_EMAIL }}
+        run: python send_daily_figure.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add state.json
+          # Only commit if state.json actually changed - avoids empty commits
+          if ! git diff --cached --quiet; then
+            git commit -m "Update state after sending daily figure"
+            git push
+          else
+            echo "No change to state.json, nothing to commit."
+          fi
